@@ -164,3 +164,5 @@ smartadserver.com, 4456, RESELLER
 smartadserver.com, 3964, RESELLER
 start.io, 197760873, RESELLER
 start.io, 131192070, RESELLER
+facebook.com, 1366695547117925, DIRECT, c3e20eee3f780d68
+facebook.com, 4662914643993217, DIRECT, c3e20eee3f780d68
